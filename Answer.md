@@ -24,8 +24,11 @@ Foreign Key: Links two tables by referencing a primary key in another table.
 A visual representation of entities and their relationships in a database.
 
 6. Advantages of Relational Databases
-Ensures data integrity, security, and scalability.
-Supports flexible schema and SQL querying.
+Data Integrity: Maintains accurate and consistent data through keys and constraints.
+Flexibility: Easy to modify schema and relationships.
+Scalability: Can handle large volumes of data and users.
+Data Security: Provides access control through permissions.
+Structured Querying: Uses SQL, a standardized language for database interaction.
 
 7. Four Data Types for Storing Data
 Integer: Numbers (e.g., INT).
