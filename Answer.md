@@ -33,4 +33,8 @@ String: Text (e.g., VARCHAR).
 Date/Time: Dates (e.g., DATE).
 Boolean: True/False values.
 
-8.
+8.Purpose of database managment system.
+ a.Store and organize data.Provide stuctured way to store and organize data
+ b.Retrieve data.Allow easy and quick access to data
+ c.Facilitate data sharing 
+ b.Support data backup and recorvery
